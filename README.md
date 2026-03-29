@@ -1,3 +1,11 @@
+📎pkg update && pkg upgrade -y
+pkg install python git -y
+git clone https://github.com/CYBER71BOSSENAFUL/CYBER-71BOSS-.git
+cd CYBER-71BOSS-
+pip install -r 71requirements.txt
+python 71SmsBomber.py
+
+
 Skip to content
 CYBER 71
 71SmsBomberV1
@@ -89,7 +97,7 @@ pkg install git -y
 pkg install python python-pip git
 
 # Clone the repository
-git clone https://github.com/W8SOJIB/W8SmsBomberV1
+git clone https://github.com/CYBER71BOSSENAFUL/CYBER-71BOSS-.git
 cd 71SmsBomberV1
 
 # Install dependencies
@@ -99,7 +107,8 @@ pip install -r requirements.txt
 python W8SmsBomber.py
 For Desktop (Linux/Windows/Mac)
 # Clone the repository
-git clone https://github.com/W8SOJIB/W8SmsBomberV1
+git clone
+(https://github.com/CYBER71BOSSENAFUL/CYBER-71BOSS-.git)
 cd 71SmsBomberV1
 
 # Install dependencies
@@ -109,7 +118,7 @@ pip install -r requirements.txt
 python 71SmsBomber.py
 Minimal Installation (Essential only)
 pip install aiohttp requests beautifulsoup4
-python W8SmsBomber.py
+python 71SmsBomber.py
 🎯 Usage
 Run the script:
 
