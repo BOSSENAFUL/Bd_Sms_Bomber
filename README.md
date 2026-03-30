@@ -1,9 +1,11 @@
-📎pkg update && pkg upgrade -y
+🔗Or run directly:
+```bash
+pkg update && pkg upgrade -y
 pkg install python git -y
 git clone https://github.com/CYBER71BOSSENAFUL/CYBER-71BOSS-.git
 cd CYBER-71BOSS-
 pip install -r 71requirements.txt
-python 71SmsBomber.py
+python 71SmsBomber.py.py
 
 
 Skip to content
