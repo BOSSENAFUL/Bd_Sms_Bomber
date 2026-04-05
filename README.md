@@ -2,15 +2,15 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/CYBER71BOSSENAFUL/CYBER-71BOSS-.git
-cd CYBER-71BOSS-
-pip install -r 71requirements.txt
-python 71SmsBomber.py.py
+git clone https://github.com/CYBERBOSS ENAFULBOSSENAFUL/CYBER-BOSS ENAFULBOSS-.git
+cd CYBER-BOSS ENAFULBOSS-
+pip install -r BOSS ENAFULrequirements.txt
+python BOSS ENAFULSmsBomber.py.py
 
 
 Skip to content
-CYBER 71
-71SmsBomberV1
+BOSS ENAFUL
+BOSS ENAFULSmsBomberV1
 Repository navigation
 Code
 Issues
@@ -21,7 +21,7 @@ Actions
 Projects
 Security
 Insights
-71SmsBomberV1
+BOSS ENAFULSmsBomberV1
 /README.md
 Go to file
 t
@@ -43,7 +43,7 @@ Blame
 💀 Ultimate SMS Bomber 💀
 The most powerful SMS bombing tool combining 35+ services into one ultimate weapon!
 
-Created by: @71Team/ENAFUL
+Created by: @BOSS ENAFULTeam/ENAFUL
 
 🚀 Features
 35+ SMS Services - Combined all popular Bangladeshi SMS services
@@ -99,8 +99,8 @@ pkg install git -y
 pkg install python python-pip git
 
 # Clone the repository
-git clone https://github.com/CYBER71BOSSENAFUL/CYBER-71BOSS-.git
-cd 71SmsBomberV1
+git clone https://github.com/CYBERBOSS ENAFULBOSSENAFUL/CYBER-BOSS ENAFULBOSS-.git
+cd BOSS ENAFULSmsBomberV1
 
 # Install dependencies
 pip install -r requirements.txt
@@ -110,17 +110,17 @@ python W8SmsBomber.py
 For Desktop (Linux/Windows/Mac)
 # Clone the repository
 git clone
-(https://github.com/CYBER71BOSSENAFUL/CYBER-71BOSS-.git)
-cd 71SmsBomberV1
+(https://github.com/CYBERBOSS ENAFULBOSSENAFUL/CYBER-BOSS ENAFULBOSS-.git)
+cd BOSS ENAFULSmsBomberV1
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the bomber
-python 71SmsBomber.py
+python BOSS ENAFULSmsBomber.py
 Minimal Installation (Essential only)
 pip install aiohttp requests beautifulsoup4
-python 71SmsBomber.py
+python BOSS ENAFULSmsBomber.py
 🎯 Usage
 Run the script:
 
