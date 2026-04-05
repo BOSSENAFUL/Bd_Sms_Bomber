@@ -1,11 +1,15 @@
 🔗Or run directly:
 ```bash
 pkg update && pkg upgrade -y
-pkg install python git -y
-git clone https://github.com/CYBERBOSS ENAFULBOSSENAFUL/CYBER-BOSS ENAFULBOSS-.git
-cd CYBER-BOSS ENAFULBOSS-
-pip install -r BOSS ENAFULrequirements.txt
-python BOSS ENAFULSmsBomber.py.py
+pkg update && pkg upgrade -y
+pkg install git python python-pip -y
+cd ~
+git clone https://github.com/BOSSENAFUL/Bd_Sms_Bomber.git
+cd Bd_Sms_Bomber
+pip install requests
+pip install -r "BOSS ENAFULrequirements.txt"
+python "BOSS ENAFULSmsBomber.py"
+
 
 
 Skip to content
