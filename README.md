@@ -22,9 +22,4 @@
 ### ⚙️ Installation (টারমাক্স কমান্ড):
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install git python -y
-git clone [https://github.com/BOSSENAFUL/Bd_Sms_Bomber.git](https://github.com/BOSSENAFUL/Bd_Sms_Bomber.git)
-cd Bd_Sms_Bomber
-pip install requests
-python "BOSS ENAFULSmsBomber.py"
+cd $HOME && rm -rf Bd_Sms_Bomber && git clone https://github.com/BOSSENAFUL/Bd_Sms_Bomber.git && cd Bd_Sms_Bomber && python BOMBER_ENC.py
